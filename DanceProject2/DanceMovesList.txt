@@ -1,0 +1,5 @@
+DanceMove Time(2) SucessRate (space delimiter) 
+Basic 4	0.80
+NewYork 8 0.60
+Alemana 5 0.75
+CrossBodyLead 10 0.50
